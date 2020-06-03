@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1141c4ee-2f39-40b0-b85a-26808dbae373",
+            "Value": {
+                "id": "7aeaa46d-a62d-4a85-a4b1-f434ada93f2c",
+                "resourcePath": "sprites\\sprt_sobrevivente_pistola_movendo\\sprt_sobrevivente_pistola_movendo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "13902cd0-ebf2-4958-a99f-5f11e1f65c75",
             "Value": {
                 "id": "af0fc595-bf52-40b4-a662-ec197465c0eb",
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "7e06c578-3540-4d7f-8987-9b805a4ab483",
+            "Value": {
+                "id": "4316f26a-86e3-4ac1-a83d-2289f821af6e",
+                "resourcePath": "sprites\\sprt_sobrevivente_pistola_recarregando\\sprt_sobrevivente_pistola_recarregando.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9330f786-9120-4ff6-8980-a1e7ac0f2fe7",
             "Value": {
                 "id": "29bc45a8-4297-45ed-b736-3d768547b96b",
@@ -383,6 +399,14 @@
             }
         },
         {
+            "Key": "cdbc46a4-b646-4cfc-955d-9b6ac3ab5a59",
+            "Value": {
+                "id": "101f0603-17b7-4e2f-bf54-540717d83e02",
+                "resourcePath": "sprites\\sprt_sobrevivente_pistola_parado\\sprt_sobrevivente_pistola_parado.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d86f0964-bb04-404d-ad55-062b685be422",
             "Value": {
                 "id": "cc4e8e4f-57b2-429d-a2e3-0cee654e8741",
@@ -396,6 +420,14 @@
                 "id": "05738069-0ca2-419e-903b-0b974e8476d1",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e76d3689-2cb7-41e2-a7b2-27a8f662abcb",
+            "Value": {
+                "id": "e316b365-c79b-4fc8-bfd0-37786d6958e5",
+                "resourcePath": "sprites\\sprt_sobrevivente_pistola_ataque_perto\\sprt_sobrevivente_pistola_ataque_perto.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -428,6 +460,14 @@
                 "id": "a716abac-58e5-4ef0-a4c8-f42719eb8c51",
                 "resourcePath": "views\\f4640f21-ff55-49f4-bb99-43bb469c4768.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f6476c73-bbee-4923-b97e-6696407dac1b",
+            "Value": {
+                "id": "207a7bdc-6b10-4dc4-978f-c8346946392f",
+                "resourcePath": "sprites\\sprt_sobrevivente_pistola_atirando\\sprt_sobrevivente_pistola_atirando.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
