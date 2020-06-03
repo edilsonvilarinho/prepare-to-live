@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "15fda405-23d8-41ca-a00c-daaf33bd4dd0",
+            "Value": {
+                "id": "bd791299-0e0c-453b-ae5c-c65c718b158d",
+                "resourcePath": "sprites\\sprt_sobrevivente_faca_parado\\sprt_sobrevivente_faca_parado.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1c0d00de-0e86-4d7d-85d8-67fa55fa7952",
             "Value": {
                 "id": "491d9b86-6b53-4b12-8907-a163b707dc93",
@@ -124,6 +132,14 @@
                 "id": "b49857cd-3ff3-4ee5-a8a0-4ce20195192a",
                 "resourcePath": "views\\35cabbe7-8ffb-49a6-b437-efd12056d902.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3b2961b6-2620-4cd1-a695-505ad5520467",
+            "Value": {
+                "id": "73bb3a0f-2d5c-41d6-8724-93e3548f3c99",
+                "resourcePath": "sprites\\sprt_sobrevivente_faca_ataque_parado\\sprt_sobrevivente_faca_ataque_parado.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -252,6 +268,14 @@
                 "id": "33ecfbb7-7e2a-43d1-9df4-1bc043089c25",
                 "resourcePath": "views\\74e676ed-d626-4e13-9bba-224309facf66.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "78532c64-aa2f-4055-8d82-ed3a83a4b4a3",
+            "Value": {
+                "id": "2251384e-3ad0-4e1b-9cbe-b8b39cf6fc02",
+                "resourcePath": "sprites\\sprt_sobrevivente_faca_movendo\\sprt_sobrevivente_faca_movendo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
