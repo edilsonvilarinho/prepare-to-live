@@ -1,0 +1,5 @@
+#macro IDLE "IDLE"
+#macro MELEEATTACK "MELEEATTACK"
+#macro MOVE "MOVE"
+#macro RELOAD "RELOAD"
+#macro SHOOT "SHOOT"
