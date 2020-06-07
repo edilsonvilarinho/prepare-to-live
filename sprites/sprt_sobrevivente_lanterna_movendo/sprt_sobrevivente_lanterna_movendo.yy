@@ -2,7 +2,7 @@
     "id": "594c88f4-c6ba-46f9-aeb9-ef8a0154c04d",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprt_sobrevivente_movendo",
+    "name": "sprt_sobrevivente_lanterna_movendo",
     "For3D": false,
     "HTile": false,
     "VTile": false,

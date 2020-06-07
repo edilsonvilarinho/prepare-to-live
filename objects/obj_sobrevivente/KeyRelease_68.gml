@@ -1,6 +1,5 @@
-/// @description Movendo para esquerda
+/// @description Estado parado
 // You can write your code in this editor
-x -= velocidade;
 if( estado != RELOAD && estado != ATTACK ){
-	estado = MOVE;
+	estado = IDLE;
 }

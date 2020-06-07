@@ -1,0 +1,11 @@
+#macro IDLE "IDLE"
+#macro ATTACK "ATTACK"
+#macro MOVE "MOVE"
+#macro RELOAD "RELOAD"
+#macro SHOOT "SHOOT"
+
+#macro LANTERNA "LANTERNA"
+#macro PISTOLA "PISTOLA"
+#macro FACA "FACA"
+#macro RIFLE "RIFLE"
+#macro ESPINGARDA "ESPINGARDA"

@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "4e4d22c1-98f6-4058-8021-509d650fe78f",
+            "Value": {
+                "id": "6dc59868-22a1-46af-b00b-4934b83b5a97",
+                "resourcePath": "scripts\\src_constantes\\src_constantes.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4f79860f-12a2-4af7-9eb4-b610ad191218",
             "Value": {
                 "id": "541ffcbc-5576-4d3b-b480-e291cd39e7d4",
@@ -258,7 +266,7 @@
             "Key": "594c88f4-c6ba-46f9-aeb9-ef8a0154c04d",
             "Value": {
                 "id": "70af0b71-3e41-4e55-a4f2-dfb7e8532d90",
-                "resourcePath": "sprites\\sprt_sobrevivente_movendo\\sprt_sobrevivente_movendo.yy",
+                "resourcePath": "sprites\\sprt_sobrevivente_lanterna_movendo\\sprt_sobrevivente_lanterna_movendo.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -402,7 +410,7 @@
             "Key": "aa6f141a-8135-45ed-97a1-98ffcd36c132",
             "Value": {
                 "id": "6facd803-4cff-41c4-8adb-061c3c3838bb",
-                "resourcePath": "sprites\\sprt_sobrevivente_ataque_perto\\sprt_sobrevivente_ataque_perto.yy",
+                "resourcePath": "sprites\\sprt_sobrevivente_lanterna_ataque_perto\\sprt_sobrevivente_lanterna_ataque_perto.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -584,7 +592,7 @@
         }
     ],
     "script_order": [
-        
+        "4e4d22c1-98f6-4058-8021-509d650fe78f"
     ],
     "tutorial": ""
 }
