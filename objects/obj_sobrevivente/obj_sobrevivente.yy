@@ -260,7 +260,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "IDLE",
+            "value": "",
             "varName": "estado",
             "varType": 2
         },

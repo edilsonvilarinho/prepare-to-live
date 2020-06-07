@@ -1,4 +1,6 @@
 /// @description Movendo para baixo
 // You can write your code in this editor
 y += velocidade;
-estado = MOVE;
+if( estado != RELOAD ){
+	estado = MOVE;
+}

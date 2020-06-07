@@ -1,7 +1,7 @@
 /// @description Mira e Maquina de estado
 // You can write your code in this editor
 image_angle = point_direction( x, y, mouse_x,mouse_y);
-
+show_debug_message(estado);
 if( estado == IDLE ){
 	if( equipado == LANTERNA ){
 		sprite_index = sprt_sobrevivente_lanterna_parado;
