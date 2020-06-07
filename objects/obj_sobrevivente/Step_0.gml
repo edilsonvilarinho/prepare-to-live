@@ -11,7 +11,7 @@ if( estado == IDLE ){
 		sprite_index = sprt_sobrevivente_faca_parado;
 	}else if( equipado == RIFLE ){
 		sprite_index = sprt_sobrevivente_rifle_parado;
-	}else{
+	}else if( equipado == ESPINGARDA ){
 		sprite_index = sprt_sobrevivente_espingarda_parado;
 	}
 }else if( estado == MOVE ){
@@ -23,8 +23,16 @@ if( estado == IDLE ){
 		sprite_index = sprt_sobrevivente_faca_movendo;
 	}else if( equipado == RIFLE ){
 		sprite_index = sprt_sobrevivente_rifle_movendo;
-	}else{
+	}else if( equipado == ESPINGARDA ){
 		sprite_index = sprt_sobrevivente_espingarda_movendo;
+	}
+}else if( estado == RELOAD ){
+	if( equipado == PISTOLA ){
+		sprite_index = sprt_sobrevivente_pistola_recarregando;
+	}else if( equipado == RIFLE ){
+		sprite_index = sprt_sobrevivente_rifle_recarregando;
+	}else if( equipado == ESPINGARDA ){
+		sprite_index = sprt_sobrevivente_espingarda_recarregando;
 	}
 }else{
 	if( equipado == LANTERNA ){
@@ -35,7 +43,7 @@ if( estado == IDLE ){
 		sprite_index = sprt_sobrevivente_faca_ataque_parado;
 	}else if( equipado == RIFLE ){
 		sprite_index = sprt_sobrevivente_rifle_ataque_perto;
-	}else{
+	}else if( equipado == ESPINGARDA ){
 		sprite_index = sprt_sobrevivente_espingarda_ataque_perto;
 	}
 }
