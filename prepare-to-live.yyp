@@ -266,7 +266,7 @@
             "Key": "594c88f4-c6ba-46f9-aeb9-ef8a0154c04d",
             "Value": {
                 "id": "70af0b71-3e41-4e55-a4f2-dfb7e8532d90",
-                "resourcePath": "sprites\\sprt_sobrevivente_movendo\\sprt_sobrevivente_movendo.yy",
+                "resourcePath": "sprites\\sprt_sobrevivente_lanterna_movendo\\sprt_sobrevivente_lanterna_movendo.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -410,7 +410,7 @@
             "Key": "aa6f141a-8135-45ed-97a1-98ffcd36c132",
             "Value": {
                 "id": "6facd803-4cff-41c4-8adb-061c3c3838bb",
-                "resourcePath": "sprites\\sprt_sobrevivente_ataque_perto\\sprt_sobrevivente_ataque_perto.yy",
+                "resourcePath": "sprites\\sprt_sobrevivente_lanterna_ataque_perto\\sprt_sobrevivente_lanterna_ataque_perto.yy",
                 "resourceType": "GMSprite"
             }
         },

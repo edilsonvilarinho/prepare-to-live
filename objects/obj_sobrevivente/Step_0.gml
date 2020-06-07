@@ -3,9 +3,39 @@
 image_angle = point_direction( x, y, mouse_x,mouse_y);
 
 if( estado == IDLE ){
-	sprite_index = sprt_sobrevivente_faca_parado;
+	if( equipado == LANTERNA ){
+		sprite_index = sprt_sobrevivente_lanterna_parado;
+	}else if( equipado == PISTOLA ){
+		sprite_index = sprt_sobrevivente_pistola_parado;
+	}else if( equipado == FACA ){
+		sprite_index = sprt_sobrevivente_faca_parado;
+	}else if( equipado == RIFLE ){
+		sprite_index = sprt_sobrevivente_rifle_parado;
+	}else{
+		sprite_index = sprt_sobrevivente_espingarda_parado;
+	}
 }else if( estado == MOVE ){
-	sprite_index = sprt_sobrevivente_faca_movendo;
+	if( equipado == LANTERNA ){
+		sprite_index = sprt_sobrevivente_lanterna_movendo;
+	}else if( equipado == PISTOLA ){
+		sprite_index = sprt_sobrevivente_pistola_movendo;
+	}else if( equipado == FACA ){
+		sprite_index = sprt_sobrevivente_faca_movendo;
+	}else if( equipado == RIFLE ){
+		sprite_index = sprt_sobrevivente_rifle_movendo;
+	}else{
+		sprite_index = sprt_sobrevivente_espingarda_movendo;
+	}
 }else{
-	sprite_index = sprt_sobrevivente_faca_ataque_parado;
+	if( equipado == LANTERNA ){
+		sprite_index = sprt_sobrevivente_lanterna_ataque_perto;
+	}else if( equipado == PISTOLA ){
+		sprite_index = sprt_sobrevivente_pistola_ataque_perto;
+	}else if( equipado == FACA ){
+		sprite_index = sprt_sobrevivente_faca_ataque_parado;
+	}else if( equipado == RIFLE ){
+		sprite_index = sprt_sobrevivente_rifle_ataque_perto;
+	}else{
+		sprite_index = sprt_sobrevivente_espingarda_ataque_perto;
+	}
 }

@@ -2,7 +2,7 @@
     "id": "aa6f141a-8135-45ed-97a1-98ffcd36c132",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprt_sobrevivente_ataque_perto",
+    "name": "sprt_sobrevivente_lanterna_ataque_perto",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -123,6 +123,56 @@
             "enumb": 56,
             "eventtype": 6,
             "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
+        },
+        {
+            "id": "7c10d045-d497-4760-9204-66be384b82fb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 49,
+            "eventtype": 5,
+            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
+        },
+        {
+            "id": "89e12d41-b18a-4762-9d30-0b21a7ab9d4f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 50,
+            "eventtype": 5,
+            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
+        },
+        {
+            "id": "18fbba33-de2c-414a-988b-85fc79559081",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 51,
+            "eventtype": 5,
+            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
+        },
+        {
+            "id": "a4724405-bbd7-4ae6-83f1-90c7c61dc684",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 52,
+            "eventtype": 5,
+            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
+        },
+        {
+            "id": "e78aa6c4-8bf8-4efa-9e2c-3da09c8a07cf",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 53,
+            "eventtype": 5,
+            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -182,6 +232,20 @@
             "resourceFilter": 1023,
             "value": "IDLE",
             "varName": "estado",
+            "varType": 2
+        },
+        {
+            "id": "b71f08d2-6f62-4669-8460-e1c87227e74b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "",
+            "varName": "equipado",
             "varType": 2
         }
     ],
