@@ -38,12 +38,12 @@ if( estado == IDLE ){
 	if( equipado == LANTERNA ){
 		sprite_index = sprt_sobrevivente_lanterna_ataque_perto;
 	}else if( equipado == PISTOLA ){
-		sprite_index = sprt_sobrevivente_pistola_ataque_perto;
+		sprite_index = sprt_sobrevivente_pistola_atirando;
 	}else if( equipado == FACA ){
 		sprite_index = sprt_sobrevivente_faca_ataque_parado;
 	}else if( equipado == RIFLE ){
-		sprite_index = sprt_sobrevivente_rifle_ataque_perto;
+		sprite_index = sprt_sobrevivente_rifle_atirando;
 	}else if( equipado == ESPINGARDA ){
-		sprite_index = sprt_sobrevivente_espingarda_ataque_perto;
+		sprite_index = sprt_sobrevivente_espingarda_atirando;
 	}
 }

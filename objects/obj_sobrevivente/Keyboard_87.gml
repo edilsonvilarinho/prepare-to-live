@@ -1,6 +1,6 @@
 /// @description Movendo para cima
 // You can write your code in this editor
 y -= velocidade;
-if( estado != RELOAD ){
+if( estado != RELOAD && estado != ATTACK ){
 	estado = MOVE;
 }
