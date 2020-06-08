@@ -1,6 +1,6 @@
 /// @description Atacar
 // You can write your code in this editor
-estado = ATTACK;
+estado = ATACAR;
 if( equipado != FACA && equipado != LANTERNA ){
 	bala = instance_create_depth( x , y , depth - 1  , obj_bala );
 	with( bala ){
