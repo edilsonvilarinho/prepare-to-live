@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "14ef7787-e8c8-4889-b84d-dd7912fe049e",
+            "Value": {
+                "id": "2812e769-75e1-4fe6-b5b7-80a5968eb687",
+                "resourcePath": "views\\14ef7787-e8c8-4889-b84d-dd7912fe049e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "15fda405-23d8-41ca-a00c-daaf33bd4dd0",
             "Value": {
                 "id": "bd791299-0e0c-453b-ae5c-c65c718b158d",
@@ -148,6 +156,14 @@
                 "id": "73bb3a0f-2d5c-41d6-8724-93e3548f3c99",
                 "resourcePath": "sprites\\sprt_sobrevivente_faca_ataque_parado\\sprt_sobrevivente_faca_ataque_parado.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3e5610ed-b25a-4dde-877e-cd3a7ba57bb9",
+            "Value": {
+                "id": "25a2d144-60e5-42ca-92f6-c32366904811",
+                "resourcePath": "views\\3e5610ed-b25a-4dde-877e-cd3a7ba57bb9.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -338,7 +354,7 @@
             "Key": "8a2eb5ac-576f-46df-8b9f-996cafad3543",
             "Value": {
                 "id": "afe82cf1-4680-4ea2-847d-8fed578deda1",
-                "resourcePath": "objects\\obj_bala\\obj_bala.yy",
+                "resourcePath": "objects\\obj_tiro\\obj_tiro.yy",
                 "resourceType": "GMObject"
             }
         },
