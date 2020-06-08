@@ -7,7 +7,7 @@
         "f6476c73-bbee-4923-b97e-6696407dac1b"
     ],
     "filterType": "GMSprite",
-    "folderName": "shoot",
+    "folderName": "atirando",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

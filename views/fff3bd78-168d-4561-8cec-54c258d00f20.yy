@@ -7,7 +7,7 @@
         "7e06c578-3540-4d7f-8987-9b805a4ab483"
     ],
     "filterType": "GMSprite",
-    "folderName": "reload",
+    "folderName": "recarregando",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

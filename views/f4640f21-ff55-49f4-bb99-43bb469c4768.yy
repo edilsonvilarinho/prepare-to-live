@@ -7,7 +7,7 @@
         "afd48ca3-bc25-48d0-b62b-dd25a10f11a6"
     ],
     "filterType": "GMSprite",
-    "folderName": "idle",
+    "folderName": "parado",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
