@@ -9,7 +9,7 @@
         "ccc8e94f-7e9d-44ad-823c-3083d806c3cc"
     ],
     "filterType": "GMSprite",
-    "folderName": "flashlight",
+    "folderName": "lanterna",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

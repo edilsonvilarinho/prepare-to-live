@@ -1,8 +1,7 @@
-#macro IDLE "IDLE"
-#macro ATTACK "ATTACK"
-#macro MOVE "MOVE"
-#macro RELOAD "RELOAD"
-#macro SHOOT "SHOOT"
+#macro PARAR "PARAR"
+#macro ATACAR "ATACAR"
+#macro MOVER "MOVER"
+#macro RECARRECAR "RECARRECAR"
 
 #macro LANTERNA "LANTERNA"
 #macro PISTOLA "PISTOLA"

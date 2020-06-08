@@ -2,7 +2,7 @@
     "id": "8a2eb5ac-576f-46df-8b9f-996cafad3543",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_bala",
+    "name": "obj_tiro",
     "eventList": [
         
     ],

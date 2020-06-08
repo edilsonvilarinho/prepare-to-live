@@ -7,7 +7,7 @@
         "3b2961b6-2620-4cd1-a695-505ad5520467"
     ],
     "filterType": "GMSprite",
-    "folderName": "meleeattack",
+    "folderName": "ataque_perto",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

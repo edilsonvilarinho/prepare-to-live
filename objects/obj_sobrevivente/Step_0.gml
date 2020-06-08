@@ -2,7 +2,7 @@
 // You can write your code in this editor
 image_angle = point_direction( x, y, mouse_x,mouse_y);
 show_debug_message(image_angle);
-if( estado == IDLE ){
+if( estado == PARAR ){
 	if( equipado == LANTERNA ){
 		sprite_index = sprt_sobrevivente_lanterna_parado;
 	}else if( equipado == PISTOLA ){
@@ -14,7 +14,7 @@ if( estado == IDLE ){
 	}else if( equipado == ESPINGARDA ){
 		sprite_index = sprt_sobrevivente_espingarda_parado;
 	}
-}else if( estado == MOVE ){
+}else if( estado == MOVER ){
 	if( equipado == LANTERNA ){
 		sprite_index = sprt_sobrevivente_lanterna_movendo;
 	}else if( equipado == PISTOLA ){
@@ -26,7 +26,7 @@ if( estado == IDLE ){
 	}else if( equipado == ESPINGARDA ){
 		sprite_index = sprt_sobrevivente_espingarda_movendo;
 	}
-}else if( estado == RELOAD ){
+}else if( estado == RECARRECAR ){
 	if( equipado == PISTOLA ){
 		sprite_index = sprt_sobrevivente_pistola_recarregando;
 	}else if( equipado == RIFLE ){

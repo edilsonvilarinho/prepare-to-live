@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "14ef7787-e8c8-4889-b84d-dd7912fe049e",
+            "Value": {
+                "id": "2812e769-75e1-4fe6-b5b7-80a5968eb687",
+                "resourcePath": "views\\14ef7787-e8c8-4889-b84d-dd7912fe049e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "15fda405-23d8-41ca-a00c-daaf33bd4dd0",
             "Value": {
                 "id": "bd791299-0e0c-453b-ae5c-c65c718b158d",
@@ -103,27 +111,11 @@
             }
         },
         {
-            "Key": "26b8c6bb-4a19-4cab-8f6f-e1321ac1d6a2",
-            "Value": {
-                "id": "24ac7a87-ca89-44a5-b7c7-2e3eb1bbe066",
-                "resourcePath": "views\\26b8c6bb-4a19-4cab-8f6f-e1321ac1d6a2.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "2837c4ed-b0a6-4d35-a257-bb67e5609519",
             "Value": {
                 "id": "56d7c2ce-1950-4cf8-9988-a0932a808ca5",
                 "resourcePath": "views\\2837c4ed-b0a6-4d35-a257-bb67e5609519.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "2ad5aa72-f070-4fc6-a783-2c0a75ec9033",
-            "Value": {
-                "id": "a5b6dd4f-2812-496e-9e20-cd9014b820c3",
-                "resourcePath": "sprites\\sprt_sobrevivente_rifle_ataque_perto\\sprt_sobrevivente_rifle_ataque_perto.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,19 +159,19 @@
             }
         },
         {
+            "Key": "3e5610ed-b25a-4dde-877e-cd3a7ba57bb9",
+            "Value": {
+                "id": "25a2d144-60e5-42ca-92f6-c32366904811",
+                "resourcePath": "views\\3e5610ed-b25a-4dde-877e-cd3a7ba57bb9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "40f47fb1-98de-42c3-b0e9-4569cb95b2a1",
             "Value": {
                 "id": "70f7ae6c-b791-4041-8a56-fd6d2cee7395",
                 "resourcePath": "sprites\\sprt_sobrevivente_espingarda_movendo\\sprt_sobrevivente_espingarda_movendo.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4261904d-7560-4b9b-99c5-baa02b8df452",
-            "Value": {
-                "id": "940f5b2c-ed58-4a48-8017-cc357cf2fcd8",
-                "resourcePath": "views\\4261904d-7560-4b9b-99c5-baa02b8df452.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -362,16 +354,8 @@
             "Key": "8a2eb5ac-576f-46df-8b9f-996cafad3543",
             "Value": {
                 "id": "afe82cf1-4680-4ea2-847d-8fed578deda1",
-                "resourcePath": "objects\\obj_bala\\obj_bala.yy",
+                "resourcePath": "objects\\obj_tiro\\obj_tiro.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "8c7f62ca-1a40-4f61-a1dc-9d87516805e5",
-            "Value": {
-                "id": "2fca67da-0655-4d05-8307-4536d32ffea1",
-                "resourcePath": "sprites\\sprt_sobrevivente_espingarda_ataque_perto\\sprt_sobrevivente_espingarda_ataque_perto.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -379,14 +363,6 @@
             "Value": {
                 "id": "29bc45a8-4297-45ed-b736-3d768547b96b",
                 "resourcePath": "views\\9330f786-9120-4ff6-8980-a1e7ac0f2fe7.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "96d900b3-719e-4db0-8dc1-f4c23b3aa40e",
-            "Value": {
-                "id": "21627dca-9ad7-410f-80a7-cf2161b891fe",
-                "resourcePath": "views\\96d900b3-719e-4db0-8dc1-f4c23b3aa40e.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -458,7 +434,7 @@
             "Key": "b2763068-3bbe-4a5a-b46e-26f952f38f38",
             "Value": {
                 "id": "84109c14-db96-47b1-952a-62113fd9329e",
-                "resourcePath": "sprites\\spr_bala\\spr_bala.yy",
+                "resourcePath": "sprites\\spr_tiro\\spr_tiro.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -548,14 +524,6 @@
                 "id": "05738069-0ca2-419e-903b-0b974e8476d1",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "e76d3689-2cb7-41e2-a7b2-27a8f662abcb",
-            "Value": {
-                "id": "e316b365-c79b-4fc8-bfd0-37786d6958e5",
-                "resourcePath": "sprites\\sprt_sobrevivente_pistola_ataque_perto\\sprt_sobrevivente_pistola_ataque_perto.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

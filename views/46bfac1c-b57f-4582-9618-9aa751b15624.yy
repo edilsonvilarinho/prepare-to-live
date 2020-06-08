@@ -7,7 +7,7 @@
         "1141c4ee-2f39-40b0-b85a-26808dbae373"
     ],
     "filterType": "GMSprite",
-    "folderName": "move",
+    "folderName": "movendo",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

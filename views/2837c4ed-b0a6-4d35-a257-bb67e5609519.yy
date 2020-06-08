@@ -9,7 +9,7 @@
         "2e461b2f-df71-41f2-979e-1a918b8f7584"
     ],
     "filterType": "GMSprite",
-    "folderName": "knife",
+    "folderName": "faca",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
