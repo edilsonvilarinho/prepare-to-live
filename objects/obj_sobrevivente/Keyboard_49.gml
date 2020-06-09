@@ -1,3 +1,3 @@
-/// @description Equipando faca
+/// @description Equipando lanterna
 // You can write your code in this editor
-equipado = FACA;
+equipado = LANTERNA;
