@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "3ff5048f-45bd-4878-8dc2-735b5c2f3c11",
+            "Value": {
+                "id": "ff65f226-e6cd-4bde-8bcd-84df8ee672f7",
+                "resourcePath": "views\\3ff5048f-45bd-4878-8dc2-735b5c2f3c11.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "40f47fb1-98de-42c3-b0e9-4569cb95b2a1",
             "Value": {
                 "id": "70f7ae6c-b791-4041-8a56-fd6d2cee7395",
@@ -284,6 +292,14 @@
                 "id": "43fc2ae3-16fb-4d6f-bbda-837031b4d1d8",
                 "resourcePath": "sprites\\sprt_sobrevivente_rifle_atirando\\sprt_sobrevivente_rifle_atirando.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69826ef3-755f-40b1-8993-05ded38d482f",
+            "Value": {
+                "id": "482a492d-78d0-4b38-8d0b-0e5d6ff72680",
+                "resourcePath": "objects\\obj_zombi\\obj_zombi.yy",
+                "resourceType": "GMObject"
             }
         },
         {
