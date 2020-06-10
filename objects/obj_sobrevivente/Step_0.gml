@@ -41,5 +41,6 @@ if( evento_ativo ){
 			sprite_index = sprt_sobrevivente_espingarda_atirando;
 		}
 	}
+	image_index = 0;
 	evento_ativo = false;
 }
