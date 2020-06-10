@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "023d3652-e63c-48ce-9722-ef1a8830aeea",
+            "Value": {
+                "id": "09cbec6e-584c-46ed-be8c-e56375423e9d",
+                "resourcePath": "views\\023d3652-e63c-48ce-9722-ef1a8830aeea.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "03ce6b43-9309-4d08-af49-5b17b3e394af",
+            "Value": {
+                "id": "9c3b871f-8325-430e-aefa-6d93319fc0b7",
+                "resourcePath": "sprites\\spr_zombi_movendo\\spr_zombi_movendo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "054bdfb5-0326-4d7a-8c7b-0b2f1ece8c1f",
             "Value": {
                 "id": "219ef33f-bd3b-4242-b5b1-94e0d27a5862",
@@ -139,6 +155,14 @@
             "Value": {
                 "id": "70f7ae6c-b791-4041-8a56-fd6d2cee7395",
                 "resourcePath": "sprites\\sprt_sobrevivente_espingarda_movendo\\sprt_sobrevivente_espingarda_movendo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "44d7cc70-6503-4022-b493-3f041c7bb252",
+            "Value": {
+                "id": "693b80ff-ad8f-4829-af3d-9f9e5ff71588",
+                "resourcePath": "sprites\\spr_zombi_parado\\spr_zombi_parado.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -287,6 +311,14 @@
             }
         },
         {
+            "Key": "7b798b6f-b9e8-4b5f-adff-3b80288078fd",
+            "Value": {
+                "id": "68997219-59ef-4a51-ba65-cf0fdd4ac412",
+                "resourcePath": "views\\7b798b6f-b9e8-4b5f-adff-3b80288078fd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7e06c578-3540-4d7f-8987-9b805a4ab483",
             "Value": {
                 "id": "4316f26a-86e3-4ac1-a83d-2289f821af6e",
@@ -303,6 +335,14 @@
             }
         },
         {
+            "Key": "8756eff6-3b31-4752-9a35-605c8f08275d",
+            "Value": {
+                "id": "47cc5ace-80cb-4dbb-a3a0-432343d68b49",
+                "resourcePath": "sprites\\spr_zombi_ataque_perto\\spr_zombi_ataque_perto.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8a2eb5ac-576f-46df-8b9f-996cafad3543",
             "Value": {
                 "id": "afe82cf1-4680-4ea2-847d-8fed578deda1",
@@ -315,6 +355,14 @@
             "Value": {
                 "id": "29bc45a8-4297-45ed-b736-3d768547b96b",
                 "resourcePath": "views\\9330f786-9120-4ff6-8980-a1e7ac0f2fe7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9eb8046e-b3db-4760-be86-ab5ae078cb19",
+            "Value": {
+                "id": "60013ed3-8fa8-489f-828b-a813b1dfe30e",
+                "resourcePath": "views\\9eb8046e-b3db-4760-be86-ab5ae078cb19.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -452,6 +500,14 @@
                 "id": "101f0603-17b7-4e2f-bf54-540717d83e02",
                 "resourcePath": "sprites\\sprt_sobrevivente_pistola_parado\\sprt_sobrevivente_pistola_parado.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2f77595-ed09-4ec9-aaa5-d1e3ceac036d",
+            "Value": {
+                "id": "69f7a8b3-7e34-4335-b5e6-a13fefbb05ae",
+                "resourcePath": "views\\d2f77595-ed09-4ec9-aaa5-d1e3ceac036d.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
