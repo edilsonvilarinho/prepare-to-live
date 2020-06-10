@@ -3,4 +3,5 @@
 x -= velocidade;
 if( estado != RECARRECAR && estado != ATACAR ){
 	estado = MOVER;
+	evento_ativo = true;
 }

@@ -1,3 +1,6 @@
 /// @description Equipando Pistola
 // You can write your code in this editor
-equipado = PISTOLA;
+if( estado != RECARRECAR ){
+	equipado = PISTOLA;
+	evento_ativo = true;
+}

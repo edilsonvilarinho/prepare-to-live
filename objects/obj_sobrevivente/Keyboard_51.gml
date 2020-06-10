@@ -1,3 +1,6 @@
 /// @description Equipando rifle
 // You can write your code in this editor
-equipado = RIFLE;
+if( estado != RECARRECAR ){
+	equipado = RIFLE;
+	evento_ativo = true;
+}

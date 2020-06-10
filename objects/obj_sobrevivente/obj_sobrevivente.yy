@@ -65,62 +65,12 @@
             "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
         },
         {
-            "id": "3a585f05-ea2a-4f9b-9c7f-2732fbe97192",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 65,
-            "eventtype": 10,
-            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
-        },
-        {
-            "id": "e9630773-aacf-4545-af8d-973c0cd3851a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 68,
-            "eventtype": 10,
-            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
-        },
-        {
-            "id": "de012551-2133-467f-87e4-16c31d53b6b5",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 83,
-            "eventtype": 10,
-            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
-        },
-        {
-            "id": "4f3f60b0-95bd-4543-a82e-7c27d37faffe",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 87,
-            "eventtype": 10,
-            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
-        },
-        {
             "id": "a128e9d6-f292-40f9-8b10-8aa8b5ec1939",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 53,
-            "eventtype": 6,
-            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
-        },
-        {
-            "id": "a5941115-5126-4344-8a2a-5294f4025a6e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 56,
+            "enumb": 50,
             "eventtype": 6,
             "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
         },
@@ -171,17 +121,7 @@
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 82,
-            "eventtype": 9,
-            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
-        },
-        {
-            "id": "62869632-d747-43e8-a6d4-c747e72a291e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 82,
-            "eventtype": 10,
+            "eventtype": 5,
             "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
         },
         {
@@ -192,6 +132,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
+        },
+        {
+            "id": "d2d35e5d-d1ea-4de1-b09a-def02815f072",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 7,
             "m_owner": "0f1c5162-f0e3-4063-b635-928696cd4a11"
         }
     ],
@@ -267,6 +217,20 @@
             "value": "",
             "varName": "equipado",
             "varType": 2
+        },
+        {
+            "id": "a9919eb9-2d69-4028-b5bd-fa831ede1a56",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "evento_ativo",
+            "varType": 3
         }
     ],
     "solid": false,

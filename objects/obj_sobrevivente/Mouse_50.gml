@@ -1,7 +1,6 @@
 /// @description Atacar
 // You can write your code in this editor
-estado = ATACAR;
-if( equipado != LANTERNA ){
+if( equipado != LANTERNA && estado != RECARRECAR){
 	//tiro = instance_create_depth( x , y , depth - 1  , obj_tiro );
 	tiro = instance_create_layer(x , y , "etc", obj_tiro)
 	with( tiro ){
@@ -9,4 +8,5 @@ if( equipado != LANTERNA ){
 		image_angle = direction;
 		speed = 10;
 	}
+	estado = ATACAR;
 }
