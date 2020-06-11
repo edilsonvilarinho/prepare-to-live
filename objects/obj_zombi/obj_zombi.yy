@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_zombi",
     "eventList": [
-        
+        {
+            "id": "edb49be1-f0a4-411b-afa8-fc224f74e56f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "69826ef3-755f-40b1-8993-05ded38d482f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
